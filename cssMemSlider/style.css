@@ -149,3 +149,13 @@ body {
 	height: 24px;
 	width: 24px;
 }
+
+.link {
+    position: absolute;
+    top: 5%;
+	z-index: 10;
+    text-decoration: none;
+    color: #fff;
+	margin-left: 2rem;
+	font-size: 2rem;
+}
